@@ -4,7 +4,6 @@ import "bootstrap/dist/css/bootstrap.css";
 class Modal extends React.Component {
 
     render() {
-        console.log(this.props);
         const { target, title, by, blurb, backers, pledged } = this.props;
         
         return(
