@@ -8,7 +8,7 @@
 ## The Stack
 
 ### Backend
-This application is written in React.js because of the large package ecosystem, and the large developer community. The version of Node used is 16.x. There is no build process for our server. Express.js is used to serve both content 
+This application is written in React.js because of the large package ecosystem, and the large developer community. The version of React used is 16.x. There is no build process for our server. Express.js is used to serve both content 
 
 ### Prerequisites
 To develop, you need the following packages:
